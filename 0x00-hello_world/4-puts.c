@@ -1,11 +1,11 @@
 #include <stdio.h>
-/*puts \ programming is like building
- * using only puts
- * return to 0
- */
+/**
+* main - Entry point of the program
+*
+* Return: Exit status of the program
+*/
 int main(void)
-
 {
-	puts("\"Programming is like building a multilingual puzzle"); 
-	return (0);
+puts("\"Programming is like building a multilingual puzzle");
+return (0);
 }
