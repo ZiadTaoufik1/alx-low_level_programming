@@ -1,4 +1,8 @@
 #include <stdio.h>
+/*puts \ programming is like building
+ * using only puts
+ * return to 0
+ */
 int main(void)
 
 {
