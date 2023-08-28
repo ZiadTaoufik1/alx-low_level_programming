@@ -1,4 +1,6 @@
 #include "main.h"
+#include <stdlib.h>
+#include <string.h>
 
 /**
  * create_array - create array of size size and assign char c
